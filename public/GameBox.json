@@ -1,0 +1,27 @@
+{
+    "url": "http://swampx_gamebox.avosapps.com",
+    "top_list": [
+        {
+            "url": "http://",
+            "catagory": "动作",
+            "date": "201409211620",
+            "playtimes": "100",
+            "thumbnail": "http://",
+            "like": "100",
+            "company": "腾讯",
+            "support_url": "http://"
+        }
+    ],
+    "game_list": [
+        {
+            "url": "http://",
+            "catagory": "动作",
+            "date": "201409211620",
+            "playtimes": "100",
+            "thumbnail": "http://",
+            "like": "100",
+            "company": "腾讯",
+            "support_url": "http://"
+        }
+    ]
+}
